@@ -19,11 +19,11 @@ Dark Raspberry: "#7B284F",
 ### Neutral
 
 White: "#FFFFFF",
-Rose White: "#FFF5FA",
+RoseWhite: "#FFF5FA",
 Eggshell: "#F3E6D8",
-Light Grey: "#E4DED8",
-Wenge Brown: "#5F574E",
-Dark Charcoal: "#302D2C",
+LightGrey: "#E4DED8",
+WengeBrown: "#5F574E",
+DarkCharcoal: "#302D2C",
 
 ## Typography
 
